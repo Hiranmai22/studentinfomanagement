@@ -1,0 +1,25 @@
+{
+  "students": [
+    {
+      "id": 1,
+      "first_name": "Hiranmai",
+      "last_name": "Kotha",
+      "Courses Registered": "Data Networks, Mobile Technologies, Next generation",
+      "Overall Grade": "85 %"
+    },
+    {
+      "id": 3,
+      "first_name": "Rutul",
+      "last_name": "Joshi",
+      "Courses Registered": "Data Networks, Mobile Technologies, Next generation",
+      "Overall Grade": "80 %"
+    },
+    {
+      "id": 2,
+      "first_name": "Kiran",
+      "last_name": "Bala",
+      "Courses Registered": "Mobile Technologies, Next generation",
+      "Overall Grade": "85 %"
+    }
+  ]
+}
